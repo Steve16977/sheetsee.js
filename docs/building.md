@@ -1,4 +1,4 @@
-# Right-sizing
+#officialsteve
 
 You can customize your Sheetsee build with just the parts you want to use, for example to only include the mapping module or only the tables module. If you want to just use the full version, you can grab it here at [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js/blob/master/js/sheetsee.js).
 
